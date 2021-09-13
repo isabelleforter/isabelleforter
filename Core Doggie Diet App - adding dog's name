@@ -1,4 +1,5 @@
-var name = "Spot"
+var name = "Spot";
 
 if (name) {
-console.log("welcome" + name)
+  console.log("welcome" + name);
+}
